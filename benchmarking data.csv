@@ -1,0 +1,32 @@
+﻿First Name,Last Name,University,PromotionDate,PapersWhenPromoted,hIndexWhenPromoted,Notes
+George,Athanasopoulos,Monash,1/1/2019,79,19,
+Catherine,Forbes,Monash,1/7/2023,24,10,
+Farshid, Vahid-Araghi,Monash,31/12/2010,38,6,
+Jiti,Gao,Monash,1/1/2011,49,12,
+Diane,Cook,Monash,1/7/2015,73,17,
+Xibin,Zhang,Monash,1/7/2021,36,14,
+David,Frazier,Monash,1/1/2024,34,10,not sure of promotion date probably 2024 sometime
+Rob,Hyndman,Monash,31/12/2003,20,5,
+Mervyn,Silvapulle,Monash,31/12/2013,61,18,not sure of promotion date may have been earlier
+Param,Silvapulle,Monash,31/12/2000,52,19,
+Howard,Bondell,Melbourne,31/12/2016,44,13,
+Konstantin,Borovkov,Melbourne,28/2/2008,32,6,stochastic process - hindex at end of 2007
+Aurore,Delaigle,Melbourne,1/1/2007,7,3,
+Ian,Gordon,Melbourne,1/1/2012,77,22,
+Kim-Anh,Le-Cao,Melbourne,31/12/2023,120,41,medical stats
+Jake,Olivier,UNSW,1/1/2019,98,25,
+Spiridon,Penev,UNSW,31/12/2019,48,10,
+Scott,Sisson,UNSW,1/1/2017,58,17,
+David,Warton,UNSW,1/1/2015,48,24,
+Qiying,Wang,Usyd,1/1/2019,57,14,
+Jean,Yang,Usyd,,,,
+Dingxuan,Zhou,Usyd,31/12/2009,75,17,
+McLachlan,Geoff,UQ,1/1/1999,76,13,
+Gabriele,Durrant,Soton,1/8/2016,16,8,
+Nikos,Tzavidis,Soton,31/12/2019,34,13,promotion date is a guess
+Brown,James,UTS,1/9/2013,19,5,
+Dino,Sejdinovic,Adelaide,1/10/2022,82,22,more computer science than stats
+Alan,Welsh,ANU,1/1/2000,52,8,promotion date is a guess
+Michael,Martin,ANU,1/6/1994,12,5,
+Lewis,Mitchell,Adelaide,1/1/2014,11,5,
+Andrew,Wood,ANU,1/1/1999,26,5,
